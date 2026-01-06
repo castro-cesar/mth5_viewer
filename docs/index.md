@@ -39,9 +39,9 @@ If you want the authoritative description of the MTH5 data model and conventions
 
 ## Screenshot
 
-Add a screenshot at `docs/assets/screenshot_main.png` and it will show here:
+![MTH5 Viewer screenshot](assets/screenshot_main1.png)
 
-![MTH5 Viewer screenshot](assets/screenshot_main.png)
+![MTH5 Viewer screenshot](assets/screenshot_main2.png)
 
 ---
 
