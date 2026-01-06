@@ -98,7 +98,6 @@ This project can also be distributed as a MATLAB App (`.mlapp`) via App Designer
 ### Upstream MTH5 (official)
 - Docs: https://mth5.readthedocs.io/en/latest/index.html
 - Source (GitHub): https://github.com/kujaku11/mth5
-- USGS software release page: https://www.usgs.gov/software/mth5-archivable-and-exchangeable-hdf5-format-magnetotelluric-data
 
 ---
 
