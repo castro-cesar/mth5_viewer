@@ -36,7 +36,7 @@ https://mth5.readthedocs.io/en/latest/index.html
 ---
 
 ## Documentation
-GitHub Pages: https://castro-cesar.github.io/<mth5_viewer>/
+GitHub Pages: https://castro-cesar.github.io/mth5_viewer/
 
 ---
 
