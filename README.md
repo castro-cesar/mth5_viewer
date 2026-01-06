@@ -83,6 +83,14 @@ mth5_viewer
 
 ---
 
+## Screenshot
+
+![MTH5 Viewer screenshot](assets/screenshot_main1.png)
+
+![MTH5 Viewer screenshot](assets/screenshot_main2.png)
+
+---
+
 ## Packaging as an App
 
 This project can also be distributed as a MATLAB App (`.mlapp`) via App Designer packaging.  
