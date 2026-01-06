@@ -107,9 +107,6 @@ Peacock, J. R., Kappler, K., Heagy, L., Ronan, T., Kelbert, A., & Frassetto, A. 
 **MTH5: An archive and exchangeable data format for magnetotelluric time series data.**  
 Computers & Geosciences, 162, 105102. https://doi.org/10.1016/j.cageo.2022.105102
 
-USGS publication entry:
-https://www.usgs.gov/publications/mth5-archive-and-exchangeable-data-format-magnetotelluric-time-series-data
-
 ---
 
 ## License
