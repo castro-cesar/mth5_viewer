@@ -85,9 +85,9 @@ mth5_viewer
 
 ## Screenshot
 
-![MTH5 Viewer screenshot](assets/screenshot_main1.png)
+![MTH5 Viewer screenshot](docs/assets/screenshot_main1.png)
 
-![MTH5 Viewer screenshot](assets/screenshot_main2.png)
+![MTH5 Viewer screenshot](docs/assets/screenshot_main2.png)
 
 ---
 
