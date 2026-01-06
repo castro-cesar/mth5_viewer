@@ -1,0 +1,5 @@
+title: MTH5 Viewer
+description: MATLAB GUI for browsing MTH5/HDF5 magnetotelluric time-series files.
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: true
