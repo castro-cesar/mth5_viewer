@@ -50,12 +50,14 @@ Exact group naming and conventions are defined by the upstream MTH5 project.
 
 ## Repository layout (current)
 
+```text
 MTH5Viewer/
 ├─ GUI/         # App Designer GUI (mth5_viewer)
 ├─ Functions/   # loaders/exporters/tree helpers/callbacks
 └─ Extras/      # icons + logo assets
    ├─ Icons/
    └─ Logo/
+```
 
 ---
 
